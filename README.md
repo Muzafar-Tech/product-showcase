@@ -1,22 +1,23 @@
-# 🚀 Animated Service Cards
+# 🚀 Product Showcase
 
-A premium collection of modern **Animated Service Cards** built with **React, Vite, Tailwind CSS v4, and Framer Motion**.
+A premium **Animated Product Showcase** built with **React, TypeScript, Vite, Tailwind CSS v4, and Framer Motion**.
 
-This project showcases elegant card animations, smooth hover effects, glassmorphism, and interactive UI components that can be used in portfolios, SaaS websites, business landing pages, and modern web applications.
+This project demonstrates a modern product presentation experience featuring smooth animations, an interactive image carousel, 3D hover effects, auto-sliding products, and premium UI design inspired by high-end eCommerce websites.
 
 ---
 
 ## ✨ Features
 
-- ⚡ Smooth Framer Motion animations
-- 🎯 Interactive hover effects
-- 💎 Modern glassmorphism design
-- 🌈 Beautiful gradient accents
-- 🎨 Premium UI/UX
+- 🚀 Smooth Framer Motion animations
+- 🖼️ Interactive product image carousel
+- 🎯 3D hover tilt effect
+- ⏸️ Auto-play with hover pause
+- 💎 Glassmorphism UI
+- 🌈 Beautiful gradient glow effects
+- ⭐ Animated rating display
 - 📱 Fully responsive
-- 🚀 Built with React + TypeScript
-- ⚙️ Tailwind CSS v4
-- 🎭 Iconify Icons
+- ⚡ Fast performance with Vite
+- 🎨 Premium modern UI
 
 ---
 
@@ -36,13 +37,13 @@ This project showcases elegant card animations, smooth hover effects, glassmorph
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Muzafar-Tech/animated-service-cards.git
+git clone https://github.com/Muzafar-Tech/product-showcase.git
 ```
 
-### Move into the project
+### Navigate to the project
 
 ```bash
-cd animated-service-cards
+cd product-showcase
 ```
 
 ### Install dependencies
@@ -71,7 +72,6 @@ http://localhost:5173
 src/
 │
 ├── assets/
-├── components/
 ├── App.tsx
 ├── main.tsx
 ├── index.css
@@ -84,31 +84,31 @@ package.json
 
 ## 🎯 What this project demonstrates
 
-This project focuses on building premium animated UI components using modern frontend technologies.
+This project focuses on building premium animated product experiences using modern frontend technologies.
 
 It showcases:
 
+- Product Image Carousel
+- Auto Sliding Products
+- 3D Mouse Tilt
+- Interactive Hover Effects
+- Glassmorphism
 - Motion Design
-- Interactive Hover Animations
-- Modern Service Cards
-- Glassmorphism UI
 - Micro Interactions
-- Responsive Design
+- Responsive Layout
 - Component-Based Architecture
-- Clean & Scalable Code
 
 ---
 
-## 💡 Use Cases
+## 💡 Perfect For
 
-These animated service cards are ideal for:
-
-- Business Websites
-- Agency Landing Pages
-- SaaS Products
-- Portfolio Websites
+- eCommerce Websites
+- Product Landing Pages
 - Startup Websites
-- Personal Branding
+- SaaS Products
+- Portfolio Projects
+- UI Inspiration
+- React Learning
 
 ---
 
@@ -122,18 +122,18 @@ Add screenshots or GIFs here.
 
 ### Muzafar Tech
 
-Building premium web experiences using **React, MERN Stack, Tailwind CSS, and Framer Motion**.
+Building premium web experiences using **React, MERN Stack, Tailwind CSS, and Framer Motion.**
 
-🌐 Portfolio: https://muzafar-tech.netlify.app
+🌐 Portfolio:
+https://muzafar-tech.netlify.app
 
-💻 GitHub: https://github.com/Muzafar-Tech
+💻 GitHub:
+https://github.com/Muzafar-Tech
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-It helps support the project and motivates future open-source contributions.
+If you found this project useful, consider giving it a **⭐ Star** on GitHub.
 
 Happy Coding! 🚀
